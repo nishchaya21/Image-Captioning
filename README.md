@@ -20,10 +20,16 @@ So, how are we doing this? </p>
 ## <u> :hourglass_flowing_sand: Modules Used </u>
 - [x] TensorFlow
 ```bash
-pip install -U tensorflow_text tensorflow tensorflow_datasets
+pip install tensorflow -cpu
 ```
 - [x] Numpy
-- [x] Matplotlib 
+```bash
+pip install numpy
+```
+- [x] Matplotlib
+```bash
+pip install matplotlib
+```
 
 ## <u> :paintbrush: System Architecture </u>
 <p> There are two basic types of architecture: </p>
